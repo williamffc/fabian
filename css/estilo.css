@@ -1,0 +1,27 @@
+*{ margin:25px;  }
+
+body{ font-family:tahoma;   /*tipo de letras*/
+      background-color: rgb(157, 157, 184);
+
+h1{
+    padding: 10px;
+    border:15px;
+    border-style: solid;   /* se hacen visible los bordes*/
+    border-radius: 15px;  /* un borde de de arco*/
+    color: blueviolet;
+    text-align: center;  /*coloca que lugar deben estar*/
+    text-decoration: underline;  /*coloca alinado */
+    text-transform: uppercase; /*coloca mayuscula las letras*/
+    font-style: italic; 
+
+}
+p{
+    background-color: rgb(207, 117, 33);
+    color: rgb(97, 4, 16);
+    text-align: justify; 
+
+}
+img{
+    width: 30%;;
+}
+}
